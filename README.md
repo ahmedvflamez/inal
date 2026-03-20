@@ -1,2 +1,2 @@
 # inal
-A terminal sound-player
+A CLI sound-player
