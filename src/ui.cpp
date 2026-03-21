@@ -1,4 +1,3 @@
-
 #include "ui.h"
 #include "player.h"
 #include <ftxui/component/component.hpp>
