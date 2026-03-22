@@ -54,8 +54,8 @@ brew install sfml
 ### Build
 
 ```bash
-git clone https://github.com/yourusername/player.git
-cd player
+git clone https://github.com/ahmedvflamez/inal.git
+cd inal
 mkdir build && cd build
 cmake ..
 cmake --build .
