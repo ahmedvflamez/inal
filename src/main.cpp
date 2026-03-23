@@ -19,11 +19,11 @@ int main(int argc, char* argv[]) {
             return 1;
         }
         if(!std::filesystem::exists(file)){
-            std::cerr << "File not found!";
+            std::cerr << "File not found!\n";
             return 1;
         }
         if(!state.music.openFromFile(file)){
-            std::cerr << "Can't open file";
+            std::cerr << "Can't open file\n";
             return -1;
         }
         
